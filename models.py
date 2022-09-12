@@ -1,7 +1,7 @@
 from typing import Text
 from database import Base
 from sqlalchemy import String,Boolean,Integer,Column
-
+ #dbhsugfjndslkfhdisuhfc
 
 class Item(Base):
     __tablename__='items'
