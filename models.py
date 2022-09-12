@@ -2,7 +2,7 @@ from typing import Text
 from database import Base
 from sqlalchemy import String,Boolean,Integer,Column
 
-
+#GGKJHGKUHLHJ
 class Item(Base):
     __tablename__='items'
     firstname=Column(Integer,primary_key=True)
